@@ -4,6 +4,6 @@ Website para calculo de IMC (Índice de Massa Corporal) que permite calcular seu
 
 ## Tecnologias utilizadas
 
-HTML 5
-CSS 3
-Javascript
+- HTML5
+- CSS3
+- Javascript
